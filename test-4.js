@@ -20,3 +20,9 @@ prueba( 'Resta 2 números correctamente', () => {
   const esperado = 5
   esperoQue( resultado ).seaIgualQue( esperado )
 } )
+
+prueba( 'Resta 2 números negativos correctamente', () => {
+  const resultado = resta( -8, -3 )
+  const esperado = -5
+  esperoQue( resultado ).seaIgualQue( esperado )
+} )
