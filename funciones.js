@@ -1,8 +1,9 @@
 /**
  * funciones.js
- *
  * Listado con las funciones a utilizar en los tests
  */
+const assert = require( 'assert' )
+
 
 /**
  * Suma 2 números y retorna su valor
@@ -22,12 +23,9 @@ const suma = ( num1, num2 ) => num1 + num2
 const resta = ( num1, num2 ) => num1 - num2
 
 
-/* * * * * * * * * * * * * * * * * * * * * * * */
-
 /**
  * Pequeña funcionalidad que comprueba si `dato` es igual a `esperado`
  * Es "encadenable"
- *
  * @param dato {number} Dato de entrada, el resultado.
  * @returns {{seaIgualQue: seaIgualQue}}
  */
@@ -37,6 +35,8 @@ const esperoQue = ( dato ) => {
       if ( dato !== esperado ) {
         throw new Error( `${ dato } es distinto que ${ esperado }` )
       }
+      // También podemos usar 👇
+      // return assert.strictEqual( dato, esperado )
     }
   }
 }
