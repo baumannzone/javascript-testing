@@ -10,15 +10,11 @@ let resultado, esperado
 // Probar suma (2+3)
 resultado = suma( 2, 3 )
 esperado = 5
-if ( resultado !== esperado ) {
-  throw new Error( `${ resultado } es distinto de ${ esperado }` )
-}
+assert.strictEqual( resultado, esperado )
 
 // Probar resta (8-3)
 resultado = resta( 8, 3 )
 esperado = 5
-if ( resultado !== esperado ) {
-  throw new Error( `${ resultado } es distinto de ${ esperado }` )
-}
+assert.strictEqual( resultado, esperado )
 
-console.log( '¡Test1 OK! 👌' )
+console.log( '¡Test2 OK! 👌' )
