@@ -41,12 +41,13 @@ const esperoQue = ( dato ) => {
   }
 }
 
-const prueba = (titulo, funcion) => {
+const prueba = ( titulo, funcion ) => {
   try {
     funcion()
-  }
-  catch ( error ) {
-    console.error(error)
+    console.log( `✅ · ${ titulo }` )
+  } catch ( error ) {
+    console.error( `❌ · ${ titulo }` )
+    console.error( error )
   }
 }
 
