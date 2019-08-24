@@ -1,6 +1,7 @@
 /**
  * test-2.js
  * https://nodejs.org/api/assert.html#assert_assert
+ * https://nodejs.org/api/assert.html#assert_assert_strictequal_actual_expected_message
  */
 const assert = require( 'assert' )
 const { suma, resta } = require( './funciones' )
