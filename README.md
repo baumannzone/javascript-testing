@@ -13,6 +13,28 @@ Este repositorio, además de ser la continuación de dicho artículo, es tambié
 - Node.js (actualmente tengo la `v. 12.8`)
 - npm (actualmente tengo la `v. 6.10)
 
-## Ejecución
+## Ejecución de Tests
+```
+# ejemplo
+node test-ejemplo.js
 
-`$ node test-1.js && node test-2.js && node test-3.js && node test-4.js`
+# 1
+node test-1.js 
+
+# 2
+node test-2.js
+
+# 3
+node test-3.js
+
+# 4
+node test-4.js
+
+# 5
+
+```
+
+```
+# Todos los test
+node test-1.js && node test-2.js && node test-3.js && node test-4.js
+```
