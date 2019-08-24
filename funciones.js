@@ -41,4 +41,13 @@ const esperoQue = ( dato ) => {
   }
 }
 
+const prueba = (titulo, funcion) => {
+  try {
+    funcion()
+  }
+  catch ( error ) {
+    console.error(error)
+  }
+}
+
 module.exports = { suma, resta, esperoQue }
