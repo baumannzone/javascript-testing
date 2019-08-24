@@ -7,4 +7,4 @@ if ( resultado !== esperado ) {
   throw new Error( `${ resultado } no es igual a ${ esperado }` )
 }
 
-console.log( 'Todo ok! 👌' )
+console.log( '¡Todo OK! 👌' )
