@@ -2,7 +2,7 @@
  * test-1.js
  */
 
-const { suma, resta } = require( './funciones' )
+const { suma, resta } = require( './funcionesMatematicas' )
 
 let resultado, esperado
 

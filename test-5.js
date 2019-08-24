@@ -1,8 +1,7 @@
 /**
  * test-4.js
  */
-const { suma, resta } = require( './funcionesMatematicas' )
-const { esperoQue, prueba } = require( './funcionesTesting' )
+const { suma, resta, esperoQue, prueba } = require( './funcionesMatematicas' )
 
 prueba( 'Suma 2 números positivos correctamente', () => {
   const resultado = suma( 2, 3 )

@@ -1,7 +1,8 @@
 /**
  * test-3.js
  */
-const { suma, resta, esperoQue } = require( './funciones' )
+const { suma, resta } = require( './funcionesMatematicas' )
+const { esperoQue } = require( './funcionesTesting' )
 
 let resultado, esperado
 

@@ -3,7 +3,7 @@
  * https://nodejs.org/api/assert.html#assert_assert
  */
 const assert = require( 'assert' )
-const { suma, resta } = require( './funciones' )
+const { suma, resta } = require( './funcionesMatematicas' )
 
 let resultado, esperado
 

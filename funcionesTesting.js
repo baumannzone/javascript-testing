@@ -1,31 +1,5 @@
 /**
- * funciones.js
- * Listado con las funciones a utilizar en los tests
- */
-const assert = require( 'assert' )
-
-
-/**
- * Suma 2 números y retorna su valor
- * @param num1 {number}
- * @param num2 {number}
- * @returns {*}
- */
-const suma = ( num1, num2 ) => num1 + num2
-
-
-/**
- * Resta 2 números y retorna su valor
- * @param num1 {number}
- * @param num2 {number}
- * @returns {number}
- */
-const resta = ( num1, num2 ) => num1 - num2
-
-
-/**
- * Pequeña funcionalidad que comprueba si `dato` es igual a `esperado`
- * Es "encadenable"
+ * Comprueba si `dato` es igual a `esperado`. Es encadenable.
  * @param dato {number} Dato de entrada, el resultado.
  * @returns {{seaIgualQue: seaIgualQue}}
  */
@@ -41,6 +15,13 @@ const esperoQue = ( dato ) => {
   }
 }
 
+/**
+ * Ejecuta el test (funcion) y require una descripcion (titulo) de dicho test
+ * Si el test falla, logea el titulo del test y el error
+ * Si el test se completa correctamente, logea el titulo del test
+ * @param titulo {string}
+ * @param funcion {function}
+ */
 const prueba = ( titulo, funcion ) => {
   try {
     funcion()
@@ -51,4 +32,4 @@ const prueba = ( titulo, funcion ) => {
   }
 }
 
-module.exports = { suma, resta, esperoQue, prueba }
+module.exports = { esperoQue, prueba }
