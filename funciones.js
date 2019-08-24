@@ -44,11 +44,11 @@ const esperoQue = ( dato ) => {
 const prueba = ( titulo, funcion ) => {
   try {
     funcion()
-    console.log( `✅ · ${ titulo }` )
+    console.log( `✅  · ${ titulo }` )
   } catch ( error ) {
-    console.error( `❌ · ${ titulo }` )
+    console.error( `❌  · ${ titulo }` )
     console.error( error )
   }
 }
 
-module.exports = { suma, resta, esperoQue }
+module.exports = { suma, resta, esperoQue, prueba }

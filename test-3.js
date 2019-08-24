@@ -7,7 +7,7 @@ let resultado, esperado
 
 // Probar suma ( 2 + 3 )
 resultado = suma( 2, 3 )
-esperado = 51
+esperado = 5
 esperoQue( resultado ).seaIgualQue( esperado )
 
 

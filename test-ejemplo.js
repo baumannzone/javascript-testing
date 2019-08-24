@@ -1,4 +1,7 @@
-// Ejemplo básico de un test en javascript
+/**
+ * test-ejemplo.js
+ * Ejemplo básico de un test en javascript
+ */
 
 const resultado = 1
 const esperado = 2
