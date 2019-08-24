@@ -12,3 +12,7 @@ Este repositorio, además de ser la continuación de dicho artículo, es tambié
 
 - Node.js (actualmente tengo la `v. 12.8`)
 - npm (actualmente tengo la `v. 6.10)
+
+## Ejecución
+
+`$ node test-1.js && node test-2.js && node test-3.js && node test-4.js`
