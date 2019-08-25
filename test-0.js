@@ -1,6 +1,6 @@
 /**
- * test-ejemplo.js
- * Ejemplo básico de un test en javascript
+ * test-0.js
+ * El ejemplo más básico de un test en javascript. En este caso, falla.
  */
 
 const resultado = 1
