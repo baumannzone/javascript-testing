@@ -1,12 +1,13 @@
 # Introducción al Testing con Javascript
 
-[![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)]()
+[![Build Status](https://action-badges.now.sh/baumannzone/javascript-testing?action=Run%20Tests)](https://github.com/baumannzone/javascript-testing/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/baumannzone/javascript-testing/pulls)
-![GitHub last commit](https://img.shields.io/github/last-commit/baumannzone/javascript-testing?style=flat-square)
+[![GitHub last commit](https://img.shields.io/github/last-commit/baumannzone/javascript-testing?style=flat-square)](https://github.com/baumannzone/javascript-testing/commits/master)
 ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/baumannzone/javascript-testing?style=flat-square)
 
 ![License](https://img.shields.io/github/license/baumannzone/javascript-testing?color=blue&style=flat-square)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contribuyentes)
+[![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)]()
 
 > 👋 ¡Hola! Mi nombre es [Jorge Baumann](https://twitter.com/baumannzone).
 >  
