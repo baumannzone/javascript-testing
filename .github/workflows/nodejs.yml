@@ -1,4 +1,4 @@
-name: Node CI
+name: Run Tests
 
 on: [push, pull_request]
 branches: 
