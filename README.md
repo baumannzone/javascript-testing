@@ -24,6 +24,7 @@ Además, lancé en twitter un hilo de encuestas acerca de esta temática. Las pu
 ## Requisitos
 Suponemos que, si estás leyendo esto tienes unos conocimientos básicos de programación en general y de javascript en particular.
  
+- [git](https://git-scm.com/) (actualmente tengo la `v. 2.21`)
 - [Node.js](https://nodejs.org/es/) (actualmente tengo la `v. 12.8`)
 - npm (actualmente tengo la `v. 6.11`)
 
@@ -69,6 +70,9 @@ npm run jest
 ```
 
 ![Salida Jest](./assets/test-5-jest-output.png)
+
+
+## ¿Dudas? 
 
 
 
