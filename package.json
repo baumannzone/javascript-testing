@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/baumannzone/javascript-testing/issues"
   },
-  "homepage": "https://github.com/baumannzone/javascript-testing#readme"
+  "homepage": "https://github.com/baumannzone/javascript-testing#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "jest": {
+    "testMatch": [
+      "**/test-5.js"
+    ]
+  }
 }
