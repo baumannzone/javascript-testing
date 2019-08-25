@@ -1,15 +1,14 @@
 /**
- * funciones.js
- * Listado con las funciones a utilizar en los tests
+ * funcionesMatematicas.js
+ * Funciones matemáticas que utilizaremos en nuestros tests
  */
-const assert = require( 'assert' )
 
 
 /**
  * Suma 2 números y retorna su valor
  * @param num1 {number}
  * @param num2 {number}
- * @returns {*}
+ * @returns {number}
  */
 const suma = ( num1, num2 ) => num1 + num2
 

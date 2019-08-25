@@ -10,9 +10,8 @@ Este repositorio, además de ser la continuación de dicho artículo, es tambié
 ## Requisitos
 - Conocimientos básicos de javascript 
 
-
 - Node.js (actualmente tengo la `v. 12.8`)
-- npm (actualmente tengo la `v. 6.10)
+- npm (actualmente tengo la `v. 6.10`)
 
 ## Ejecución de Tests
 ```
