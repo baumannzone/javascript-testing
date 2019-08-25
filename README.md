@@ -9,17 +9,17 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contribuyentes)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)]()
 
-> 👋 ¡Hola! Mi nombre es [Jorge Baumann](https://twitter.com/baumannzone).
+> 👋 ¡Hola! Estimados developers, para los que no me conozcáis, mi nombre es [Jorge Baumann](https://twitter.com/baumannzone) y soy desarrollador web.
 >  
-> Este repositorio es una introducción práctica a los tests con javascript (_node.js_) guiada por ejemplos progresivos de "0 a framework" 🎉
+> Este repositorio es una introducción práctica a los tests con javascript (a través de _node.js_) guiada por ejemplos progresivos: "de 0 a framework" 🎉
 
-![Ejemplo test basico en javascript](./assets/ejemplo-test.png)
+![Ejemplo test básico en javascript](./assets/ejemplo-test.png)
 
 ## Contexto
-Hace un mes aproximadamente (_julio 2019_), escribí un artículo en Medium (_que deberías leer si aun no lo has hecho_) que hablaba sobre la importancia de los test o pruebas en nuestros desarrollos de software: [Sobre Pruebas (Testing)](https://medium.com/@baumannsito/about-testing-304fac4034c3).  
+Pues bien developers, hace un mes aproximadamente (_julio 2019_), escribí un artículo en Medium (_que deberías leer si aun no lo has hecho_) que hablaba sobre la importancia de los test o pruebas en nuestros desarrollos de software: [Sobre Pruebas (Testing)](https://medium.com/@baumannsito/about-testing-304fac4034c3).  
 Este repositorio, además de ser la continuación de dicho artículo, es también la motivación de continuar hablando, en esta ocasión de manera más práctica y centrándonos en javascript, acerca de las pruebas automáticas en nuestras aplicaciones.  
 
-Además, lancé en twitter un hilo de encuestas acerca de esta temática. Las puedes ver [aquí](https://twitter.com/baumannzone/status/1165178014579273728). 
+Además, lancé en twitter un hilo de encuestas que tocaban estas temas. Las puedes ver [aquí](https://twitter.com/baumannzone/status/1165178014579273728). 
 
 ## Requisitos
 Suponemos que, si estás leyendo esto tienes unos conocimientos básicos de programación en general y de javascript en particular.
