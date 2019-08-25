@@ -29,27 +29,27 @@ Suponemos que, si estás leyendo esto tienes unos conocimientos básicos de prog
 ## Ejecución de Tests
 Desde la consola de comandos, hacemos lo siguiente:
 
-####### Ejemplo básico
+###### Ejemplo básico
 ```
 node test-0.js
 ```
 
-####### 1
+###### 1
 ```
 node test-1.js 
 ```
 
-####### 2
+###### 2
 ```
 node test-2.js
 ```
 
-####### 3
+###### 3
 ```
 node test-3.js
 ```
 
-####### 4
+###### 4
 ```
 node test-4.js
 ```
@@ -62,7 +62,7 @@ npm run test
 ![Salida Tests](./assets/test-all-output.png)
 
 
-####### 5
+###### 5
 ```
 npm run jest
 ```
