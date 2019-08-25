@@ -52,9 +52,16 @@ node test-3.js
 node test-4.js
 ```
 
+####### 5
+```
+npm run jest
+```
+
+
+
 ###### Todos los test
 ```
-node test-1.js && node test-2.js && node test-3.js && node test-4.js
+npm run test
 ```
 
 
