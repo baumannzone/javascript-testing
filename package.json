@@ -1,0 +1,20 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "Introducción al Testing con Javascript",
+  "main": "funcionesMatematicas.js",
+  "scripts": {
+    "test": "node test-1.js && node test-2.js && node test-3.js && node test-4.js",
+    "jest": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baumannzone/javascript-testing.git"
+  },
+  "author": "Jorge Baumann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baumannzone/javascript-testing/issues"
+  },
+  "homepage": "https://github.com/baumannzone/javascript-testing#readme"
+}
