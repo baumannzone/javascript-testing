@@ -8,10 +8,10 @@
 ![License](https://img.shields.io/github/license/baumannzone/javascript-testing?color=blue&style=flat-square)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contribuyentes)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)]()
-
-> 👋 ¡Hola, estimados developers!, para los que no me conozcáis, mi nombre es [Jorge Baumann](https://twitter.com/baumannzone) y soy desarrollador web.
->  
+  
 > Este repositorio es una introducción práctica a los tests con javascript (a través de _node.js_) guiada por ejemplos progresivos: "de 0 a framework" 🎉
+>
+> 👋 ¡Hola, estimados developers!, para los que no me conozcáis, mi nombre es [Jorge Baumann](https://twitter.com/baumannzone) y soy desarrollador web.
 
 ![Ejemplo test básico en javascript](./assets/ejemplo-test.png)
 
