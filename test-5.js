@@ -1,28 +1,28 @@
 /**
  * test-4.js
  */
-const { suma, resta, esperoQue, prueba } = require( './funcionesMatematicas' )
+const { suma, resta } = require( './funcionesMatematicas' )
 
-prueba( 'Suma 2 números positivos correctamente', () => {
+test( 'Suma 2 números positivos correctamente', () => {
   const resultado = suma( 2, 3 )
   const esperado = 5
-  esperoQue( resultado ).seaIgualQue( esperado )
+  expect( resultado ).toBe( esperado )
 } )
 
-prueba( 'Suma 2 números negativos correctamente', () => {
+test( 'Suma 2 números negativos correctamente', () => {
   const resultado = suma( -2, -3 )
   const esperado = -5
-  esperoQue( resultado ).seaIgualQue( esperado )
+  expect( resultado ).toBe( esperado )
 } )
 
-prueba( 'Resta 2 números positivos correctamente', () => {
+test( 'Resta 2 números positivos correctamente', () => {
   const resultado = resta( 8, 3 )
   const esperado = 5
-  esperoQue( resultado ).seaIgualQue( esperado )
+  expect( resultado ).toBe( esperado )
 } )
 
-prueba( 'Resta 2 números negativos correctamente', () => {
+test( 'Resta 2 números negativos correctamente', () => {
   const resultado = resta( -8, -3 )
   const esperado = -5
-  esperoQue( resultado ).seaIgualQue( esperado )
+  expect( resultado ).toBe( esperado )
 } )
