@@ -1,4 +1,5 @@
 # Introducción al Testing con Javascript
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 > Ejemplo básico de pruebas (tests) con Javascript
 
@@ -37,3 +38,18 @@ node test-4.js
 # Todos los test
 node test-1.js && node test-2.js && node test-3.js && node test-4.js
 ```
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://twitter.com/baumannzone"><img src="https://avatars0.githubusercontent.com/u/5422102?v=4" width="100px;" alt="Jorge Baumann"/><br /><sub><b>Jorge Baumann</b></sub></a><br /><a href="https://github.com/baumannzone/javascript-testing/commits?author=baumannzone" title="Code">💻</a> <a href="#content-baumannzone" title="Content">🖋</a> <a href="https://github.com/baumannzone/javascript-testing/commits?author=baumannzone" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
