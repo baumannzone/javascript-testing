@@ -30,14 +30,14 @@ node test-3.js
 # 4
 node test-4.js
 
-# 5
-
 ```
 
 ```
 # Todos los test
 node test-1.js && node test-2.js && node test-3.js && node test-4.js
 ```
+
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -53,3 +53,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Licencia
+Este material está disponible para uso privado y no comercial bajo la licencia [GNU General Public License v3.0](./LICENSE)
