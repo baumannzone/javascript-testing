@@ -1,17 +1,26 @@
 # Introducción al Testing con Javascript
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-> Ejemplo básico de pruebas (tests) con Javascript
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contribuyentes)
+![GitHub](https://img.shields.io/github/license/baumannzone/javascript-testing?color=blue&style=flat-square)
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/baumannzone/javascript-testing?style=flat-square)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/baumannzone/javascript-testing/pulls)
+![GitHub last commit](https://img.shields.io/github/last-commit/baumannzone/javascript-testing?style=flat-square)
+
+> ⏩ Este repositorio es una introducción a los tests con javascript (_node.js_) guiada por ejemplos progresivos de "0 a framework" 🎉
+
+![Ejemplo test basico en javascript](./assets/ejemplo-test.png)
 
 ## Contexto
-Hace un mes aproximadamente (Julio 2019), escribí un artículo en Medium que hablaba sobre la importancia de los test en nuestras aplicaciones: [Sobre Pruebas (Testing)](https://medium.com/@baumannsito/about-testing-304fac4034c3)  
-Este repositorio, además de ser la continuación de dicho artículo, es también la motivación de continuar hablando (en esta ocasión, de manera más práctica) acerca de las pruebas automáticas de nuestras aplicaciones. 
+Hace un mes aproximadamente (_julio 2019_), escribí un artículo en Medium (_que deberías leer si aun no lo has hecho_) que hablaba sobre la importancia de los test o pruebas en nuestros desarrollos de software: [Sobre Pruebas (Testing)](https://medium.com/@baumannsito/about-testing-304fac4034c3)  
+Este repositorio, además de ser la continuación de dicho artículo, es también la motivación de continuar hablando, en esta ocasión de manera más práctica y centrandonos en javascript, acerca de las pruebas automáticas en nuestras aplicaciones.  
+
+Además, lancé en twitter un hilo de encuestas acerca de esta temática. Las puedes ver [aquí](https://twitter.com/baumannzone/status/1165178014579273728). 
 
 ## Requisitos
-- Conocimientos básicos de javascript 
-
-- Node.js (actualmente tengo la `v. 12.8`)
-- npm (actualmente tengo la `v. 6.10`)
+Suponemos que, si estás leyendo esto tienes unos conocimientos básicos de programación en general y de javascript en particular.
+ 
+- [Node.js](https://nodejs.org/es/) (actualmente tengo la `v. 12.8`)
+- npm (actualmente tengo la `v. 6.11`)
 
 ## Ejecución de Tests
 ```
@@ -30,15 +39,15 @@ node test-3.js
 # 4
 node test-4.js
 
-# 5
-
 ```
 
 ```
 # Todos los test
 node test-1.js && node test-2.js && node test-3.js && node test-4.js
 ```
-## Contributors ✨
+
+
+## Contribuyentes ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -53,3 +62,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Licencia
+Este material está disponible para uso privado y no comercial bajo la licencia [GNU General Public License v3.0](./LICENSE)
