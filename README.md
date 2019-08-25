@@ -72,8 +72,15 @@ npm run jest
 ![Salida Jest](./assets/test-5-jest-output.png)
 
 
-## ¿Dudas? 
+## Problemas
+> Preguntas, bugs o solicitudes de mejoras 
 
+Si no entiendes algo o si tienes alguna pregunta (❓),
+si has detectado algún fallo (🐛),
+si crees que hay algo que se puede mejorar (🔧)
+o si tienes alguna idea (💡) que quieres se implemente, 
+no lo dudes y creaa una nueva **[issue](https://github.com/baumannzone/javascript-testing/issues)**.  
+¡La revisaremos lo antes posible! 
 
 
 ## Contribuyentes ✨
