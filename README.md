@@ -8,6 +8,8 @@
 
 > ⏩ Este repositorio es una introducción a los tests con javascript (_node.js_) guiada por ejemplos progresivos de "0 a framework" 🎉
 
+![Ejemplo test basico en javascript](./assets/ejemplo-test.png)
+
 ## Contexto
 Hace un mes aproximadamente (_julio 2019_), escribí un artículo en Medium (_que deberías leer si aun no lo has hecho_) que hablaba sobre la importancia de los test o pruebas en nuestros desarrollos de software: [Sobre Pruebas (Testing)](https://medium.com/@baumannsito/about-testing-304fac4034c3)  
 Este repositorio, además de ser la continuación de dicho artículo, es también la motivación de continuar hablando, en esta ocasión de manera más práctica y centrandonos en javascript, acerca de las pruebas automáticas en nuestras aplicaciones.  
