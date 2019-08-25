@@ -57,7 +57,7 @@ node test-4.js
 npm run jest
 ```
 
-
+![Salida Jest](./assets/test-5-jest-output.png)
 
 ###### Todos los test
 ```
