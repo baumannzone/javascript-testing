@@ -12,6 +12,7 @@
     "url": "git+https://github.com/baumannzone/javascript-testing.git"
   },
   "author": "Jorge Baumann",
+  "license": "GNU GPLv3",
   "bugs": {
     "url": "https://github.com/baumannzone/javascript-testing/issues"
   },
