@@ -11,7 +11,7 @@ Este repositorio, además de ser la continuación de dicho artículo, es tambié
 - Conocimientos básicos de javascript 
 
 - Node.js (actualmente tengo la `v. 12.8`)
-- npm (actualmente tengo la `v. 6.10`)
+- npm (actualmente tengo la `v. 6.11`)
 
 ## Ejecución de Tests
 ```
