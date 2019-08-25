@@ -52,6 +52,14 @@ node test-3.js
 node test-4.js
 ```
 
+###### Todos los test
+```
+npm run test
+```
+
+![Salida Tests](./assets/test-all-output.png)
+
+
 ####### 5
 ```
 npm run jest
@@ -59,10 +67,6 @@ npm run jest
 
 ![Salida Jest](./assets/test-5-jest-output.png)
 
-###### Todos los test
-```
-npm run test
-```
 
 
 ## Contribuyentes ✨
