@@ -30,33 +30,20 @@ Suponemos que, si estás leyendo esto tienes unos conocimientos básicos de prog
 
 ## Ejecución de Tests
 Desde la consola de comandos, hacemos lo siguiente:
-
-###### Ejemplo básico
+ 
 ```
 node test-0.js
-```
 
-###### 1
-```
 node test-1.js 
-```
 
-###### 2
-```
 node test-2.js
-```
 
-###### 3
-```
 node test-3.js
-```
 
-###### 4
-```
 node test-4.js
 ```
 
-###### Todos los test
+###### Todos los test anteriores
 ```
 npm run test
 ```
@@ -64,13 +51,14 @@ npm run test
 ![Salida Tests](./assets/test-all-output.png)
 
 
-###### 5
+###### Test con Jest
 ```
 npm run jest
 ```
 
 ![Salida Jest](./assets/test-5-jest-output.png)
 
+---
 
 ## Problemas
 > Preguntas, bugs o solicitudes de mejoras 
