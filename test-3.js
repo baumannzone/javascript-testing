@@ -17,4 +17,8 @@ resultado = resta( 8, 3 )
 esperado = 5
 esperoQue( resultado ).seaIgualQue( esperado )
 
+// resultado = 5
+// esperado = 1
+// esperoQue( resultado ).seaMayorQue( esperado )
+
 console.log( '¡Test3 OK! 👌' )
