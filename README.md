@@ -6,7 +6,7 @@
 ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/baumannzone/javascript-testing?style=flat-square)
 
 ![License](https://img.shields.io/github/license/baumannzone/javascript-testing?color=blue&style=flat-square)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contribuyentes)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contribuyentes-)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/baumannzone/javascript-testing/blob/master/CODE_OF_CONDUCT.md)
   
 > 👋 ¡Hola, estimados developers!, para los que no me conozcáis, mi nombre es [Jorge Baumann](https://twitter.com/baumannzone) y soy desarrollador web.
