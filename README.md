@@ -28,6 +28,9 @@ Suponemos que, si estás leyendo esto tienes unos conocimientos básicos de prog
 - [Node.js](https://nodejs.org/es/) (actualmente tengo la `v. 12.8`)
 - npm (actualmente tengo la `v. 6.11`)
 
+## Instalar
+`npm install`
+
 ## Ejecución de Tests
 Desde la consola de comandos, hacemos lo siguiente:
  
