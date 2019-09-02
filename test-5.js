@@ -1,6 +1,5 @@
-/**
- * test-4.js
- */
+// test-5.js
+
 const { suma, resta } = require( './funcionesMatematicas' )
 
 test( 'Suma 2 números positivos correctamente', () => {
