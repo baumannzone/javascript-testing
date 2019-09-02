@@ -1,6 +1,5 @@
-/**
- * test-3.js
- */
+// test-3.js
+
 const { suma, resta } = require( './funcionesMatematicas' )
 const { esperoQue } = require( './funcionesTesting' )
 
