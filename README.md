@@ -21,6 +21,9 @@ Este repositorio, además de ser la continuación de dicho artículo, es tambié
 
 Además, lancé en twitter un hilo de encuestas que tocaban estas temas. Las puedes ver [aquí](https://twitter.com/baumannzone/status/1165178014579273728). 
 
+### 📝 Blog Post 
+Puedes leer el artículo completo en medium: https://medium.com/@baumannsito/testing-con-javascript-tutorial-bb85745f2b6e
+
 ## Requisitos
 Suponemos que, si estás leyendo esto tienes unos conocimientos básicos de programación en general y de javascript en particular.
  
@@ -36,13 +39,17 @@ Desde la consola de comandos, hacemos lo siguiente:
  
 ```
 node test-0.js
-
+```
+```
 node test-1.js 
-
+```
+```
 node test-2.js
-
+```
+```
 node test-3.js
-
+```
+```
 node test-4.js
 ```
 
